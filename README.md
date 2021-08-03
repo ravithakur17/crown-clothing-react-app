@@ -1,4 +1,4 @@
-##CROWN-CLOTHING React App
+## CROWN-CLOTHING React App
 
 # Current Functionalities
 - Signin and Signout authentication with firebase authentication
